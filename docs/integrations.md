@@ -1,12 +1,5 @@
 # Switching integrations
 
-## PluralKit (`pluralkit`)
-
-The heart and soul of this entire project.
-
-- `token`: The PluralKit token to access the API with.
-  May also be given under the `Authorization` header.
-
 ## Mastodon (`mastodon`)
 
 - `instance`: URL to your Mastodon instance, without trailing slash.
